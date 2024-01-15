@@ -1,0 +1,13 @@
+﻿  Actor.cpp
+  Bullet.cpp
+  GameSettingsSingleton.cpp
+  Sim.cpp
+  VirtualRealityHeadset.cpp
+  VRAchievementTracker.cpp
+  VRChatSystem.cpp
+  VRController.cpp
+  VRGame.cpp
+  Inventory.cpp
+  Item.cpp
+  Generating Code...
+  SimsReality.vcxproj -> C:\CG Spectrum\SoftwareEngineeringPracticalAssessment\3. SimsReality\x64\Debug\SimsReality.exe
